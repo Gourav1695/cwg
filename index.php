@@ -21,8 +21,32 @@
     $variable1= 23;
     $variable2 = 45;
     echo $variable1;
-
+    echo $variable2;
+    // Arithmatic Operators
     Echo $variable1 + $variable2;
+
+    echo "<br>"; //for new line 
+    echo "The value of variable1 + variable2 is ";
+    echo "<br>";
+    echo $variable1 + $variable2;
+    echo "<br>";
+    //Assignment Operators
+    $newVar = $variable1;
+    echo " The value of new Operators is ";
+    echo $newVar;
+    echo "<br>";
+
+
+
+
+
+
+
+
+
+
+
+
      echo "Hello World this is written by using the PHP language";
      ?>
 </div>
